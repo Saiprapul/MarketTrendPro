@@ -1,4 +1,4 @@
 streamlit==1.25.0
 pytrends==4.8.0
 pandas==2.1.1
-Pillow==9.5.0
+Pillow==9.0.1
